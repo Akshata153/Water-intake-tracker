@@ -1,0 +1,86 @@
+.water-btn:hover{
+  background-color: rgb(23, 111, 188);
+}
+.water-btn{
+  padding: 5px;
+}
+.water-h1{
+  padding-top: 30px;
+  text-align: center;
+  font-family: cursive;
+}
+.water-yet
+{
+  /* background-color: rgb(62, 195, 252); */
+  font-style: bold;
+}
+.water-done{
+  background-color: rgb(66, 168, 104);
+  color: aliceblue;
+  padding: 10px;
+  font-family: cursive;
+}
+.water-main{
+  background-image: url('https://t4.ftcdn.net/jpg/02/65/02/77/240_F_265027744_N8iTqFJuSWifzHKCP4XCicTPnNwCbTSp.jpg');
+  background-size: cover ;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 1000vh;
+}
+input
+{
+  float: right;
+  padding:1.5px
+}
+.form-group
+{
+  text-align: center;
+  
+}
+.age-range{
+  font-size: 22px;
+  padding: 10px;
+}
+.water-drank{
+  font-size: 22px;
+  padding: 10px;
+}
+
+.op-age{
+  font-size: 15px;
+}
+.weight-water{
+  font-size: 22px;
+  padding: 5px;
+}
+h1{
+  font-size: 80px;
+  color: rgb(35, 72, 76);
+  text-shadow:  2px 2px #afd6c5;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h2{
+  text-shadow:2px 2px #6fada7;
+  padding:px
+}
+
+
+
+.mt-3{
+  font-size: 25px;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  display: flex;
+  font-style: italic;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.intakerec
+{
+  border:solid 2px;
+  padding: 20px;
+}
+.totintake{
+  border:solid 2px;
+  padding: 20px;
+}
